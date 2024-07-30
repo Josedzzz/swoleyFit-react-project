@@ -5,7 +5,7 @@ This project is a gym routine application that provides workout routines for use
 ## Description
 
 This project is an implementation based on a tutorial by a YouTuber. The original tutorial can be found at the following link:
-[Build a Gym Routine App](#)  <!-- Replace with actual link if available -->
+[Build a Gym Routine App](https://www.youtube.com/watch?v=82PXenL4MGg&t=4397s)
 
 ## Features
 
