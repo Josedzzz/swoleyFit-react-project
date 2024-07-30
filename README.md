@@ -1,8 +1,21 @@
-# React + Vite
+# Gym Routine App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a gym routine application that provides workout routines for users. It was created to help people stay fit and achieve their fitness goals by offering well-structured workout plans.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is an implementation based on a tutorial by a YouTuber. The original tutorial can be found at the following link:
+[Build a Gym Routine App](#)  <!-- Replace with actual link if available -->
+
+## Features
+
+- Provides daily workout routines.
+- Offers routines for different fitness levels and goals.
+- User-friendly interface to easily navigate through workouts.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
