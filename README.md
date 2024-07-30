@@ -1,6 +1,7 @@
 # Gym Routine App
 
-This project is a gym routine application that provides workout routines for users. It was created to help people stay fit and achieve their fitness goals by offering well-structured workout plans.
+This project is a gym routine application that provides workout routines for users. It was created to help people stay fit and achieve their fitness goals by offering well-structured workout plans. You can check the app
+[here](https://swoley-fit-joki.netlify.app)
 
 ## Description
 
